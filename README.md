@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -58,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
