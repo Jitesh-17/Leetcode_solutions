@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [2396-strictly-palindromic-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
+| [2396-strictly-palindromic-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 ## Design
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
