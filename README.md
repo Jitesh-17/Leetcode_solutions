@@ -115,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
