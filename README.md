@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0575-distribute-candies](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
