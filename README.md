@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0575-distribute-candies](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0627-swap-sex-of-employees) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
