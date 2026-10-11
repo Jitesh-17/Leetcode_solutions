@@ -124,8 +124,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
