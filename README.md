@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2396-strictly-palindromic-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3959-check-good-integer](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/3959-check-good-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0052-n-queens-ii) |
+## Simulation
+|  |
+| ------- |
+| [3959-check-good-integer](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/3959-check-good-integer) |
 <!---LeetCode Topics End-->
