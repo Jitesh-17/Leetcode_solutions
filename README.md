@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1103-distribute-candies-to-people](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/1103-distribute-candies-to-people) |
 | [2396-strictly-palindromic-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3959-check-good-integer](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/3959-check-good-integer) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1103-distribute-candies-to-people](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/1103-distribute-candies-to-people) |
 | [3959-check-good-integer](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
