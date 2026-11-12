@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [2942-find-words-containing-character](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/2942-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/3798-largest-even-number) |
 ## Trie
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/1103-distribute-candies-to-people) |
+| [3498-reverse-degree-of-a-string](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/Jitesh-17/Leetcode_solutions/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
